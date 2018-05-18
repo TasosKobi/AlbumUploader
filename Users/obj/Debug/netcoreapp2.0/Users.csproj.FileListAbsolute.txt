@@ -1,0 +1,8 @@
+C:\Users\Tasos\source\repos\AtomProject\Users\bin\Debug\netcoreapp2.0\Users.deps.json
+C:\Users\Tasos\source\repos\AtomProject\Users\bin\Debug\netcoreapp2.0\Users.dll
+C:\Users\Tasos\source\repos\AtomProject\Users\bin\Debug\netcoreapp2.0\Users.pdb
+C:\Users\Tasos\source\repos\AtomProject\Users\obj\Debug\netcoreapp2.0\Users.csproj.CoreCompileInputs.cache
+C:\Users\Tasos\source\repos\AtomProject\Users\obj\Debug\netcoreapp2.0\Users.AssemblyInfoInputs.cache
+C:\Users\Tasos\source\repos\AtomProject\Users\obj\Debug\netcoreapp2.0\Users.AssemblyInfo.cs
+C:\Users\Tasos\source\repos\AtomProject\Users\obj\Debug\netcoreapp2.0\Users.dll
+C:\Users\Tasos\source\repos\AtomProject\Users\obj\Debug\netcoreapp2.0\Users.pdb

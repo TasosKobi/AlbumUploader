@@ -1,0 +1,14 @@
+C:\Users\Tasos\source\repos\PhotosProject\PhotoService\bin\Debug\netcoreapp2.0\PhotoService.deps.json
+C:\Users\Tasos\source\repos\PhotosProject\PhotoService\bin\Debug\netcoreapp2.0\PhotoService.dll
+C:\Users\Tasos\source\repos\PhotosProject\PhotoService\bin\Debug\netcoreapp2.0\Contracts.dll
+C:\Users\Tasos\source\repos\PhotosProject\PhotoService\bin\Debug\netcoreapp2.0\Entities.dll
+C:\Users\Tasos\source\repos\PhotosProject\PhotoService\bin\Debug\netcoreapp2.0\Contracts.pdb
+C:\Users\Tasos\source\repos\PhotosProject\PhotoService\bin\Debug\netcoreapp2.0\Entities.pdb
+C:\Users\Tasos\source\repos\PhotosProject\PhotoService\obj\Debug\netcoreapp2.0\PhotoService.csprojResolveAssemblyReference.cache
+C:\Users\Tasos\source\repos\PhotosProject\PhotoService\obj\Debug\netcoreapp2.0\PhotoService.csproj.CoreCompileInputs.cache
+C:\Users\Tasos\source\repos\PhotosProject\PhotoService\obj\Debug\netcoreapp2.0\PhotoService.AssemblyInfoInputs.cache
+C:\Users\Tasos\source\repos\PhotosProject\PhotoService\obj\Debug\netcoreapp2.0\PhotoService.AssemblyInfo.cs
+C:\Users\Tasos\source\repos\PhotosProject\PhotoService\obj\Debug\netcoreapp2.0\PhotoService.csproj.CopyComplete
+C:\Users\Tasos\source\repos\PhotosProject\PhotoService\bin\Debug\netcoreapp2.0\PhotoService.pdb
+C:\Users\Tasos\source\repos\PhotosProject\PhotoService\obj\Debug\netcoreapp2.0\PhotoService.dll
+C:\Users\Tasos\source\repos\PhotosProject\PhotoService\obj\Debug\netcoreapp2.0\PhotoService.pdb
